@@ -465,7 +465,7 @@ if (form) {
     const phone   = G('senderPhone')?.value.trim()   || '';
     const company = G('senderCompany')?.value.trim() || '';
 
-    const TO      = 'anil.shresth86@gmail.com';
+    const TO      = 'astechcore1986@gmail.com';
     const CC      = encodeURIComponent(email);
     const SUBJECT = encodeURIComponent(`SAP Consulting Enquiry — ${name}`);
     const BODY    = encodeURIComponent(
